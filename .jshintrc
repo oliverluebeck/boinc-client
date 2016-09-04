@@ -1,0 +1,6 @@
+{
+  "esnext": true,
+  "eqeqeq": true,
+  "latedef": true,
+  "strict": true
+}
